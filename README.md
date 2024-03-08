@@ -3,5 +3,5 @@
 ## Our Socials:
 * **Website**: Viddymovies.com
 * **Support Website**: viddymovies.github.io
-* **Github**: Viddymovies
-* **Twitter**: TBA
+* **Github**: [https://github.com/Viddymovies/Viddymovies/](Viddymovies)
+* **Twitter**: [https://twitter.com/viddymovies](Viddymovies)
