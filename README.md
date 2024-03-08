@@ -1,4 +1,4 @@
-# Welcome to viddymovies github page
+# Welcome to Viddymovies Github page
 
 ## Our Socials:
 * **Website**: Viddymovies.com
