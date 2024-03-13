@@ -5,3 +5,4 @@
 * **Support Website**: viddymovies.github.io
 * **Github**: [Viddymovies](https://github.com/Viddymovies/Viddymovies/)
 * **Twitter**: [Viddymovies](https://twitter.com/viddymovies)
+* **Youtube**: [Viddymovies](https://www.youtube.com/@viddymovies)
